@@ -47,8 +47,8 @@
 
 ### Interface
 
-![Snipaste_2023-06-03_22-27-51](resdme.assets/Snipaste_2023-06-03_22-27-51.png)
+![Snipaste_2023-06-03_22-27-51](https://github.com/shanshili/LiDAR-Visualizer-/blob/5fbdc816fca51425fc0102c6d60912c9744ab3cf/resdme.assets/Snipaste_2023-06-03_22-27-51.png)
 
 ### **Real-Time 3D Visualization**
 
-![Snipaste_2023-06-04_18-30-30](resdme.assets/Snipaste_2023-06-04_18-30-30.png)
+![Snipaste_2023-06-04_18-30-30](https://github.com/shanshili/LiDAR-Visualizer-/blob/5fbdc816fca51425fc0102c6d60912c9744ab3cf/resdme.assets/Snipaste_2023-06-04_18-30-30.png)
