@@ -51,7 +51,7 @@
 
 ### **Real-Time 3D Visualization**
 
-Click the image below to view the real-time display video of the point cloud scanning.
+Click the image below to view the real-time display video of the point cloud scanning. Recommend watching at 2x speed.
 
 [![Snipaste_2023-06-04_18-30-30](https://github.com/shanshili/LiDAR-Visualizer-/blob/5fbdc816fca51425fc0102c6d60912c9744ab3cf/resdme.assets/Snipaste_2023-06-04_18-30-30.png)](https://vimeo.com/1067346577/e1a4613c6e?ts=0&share=copy)
 
